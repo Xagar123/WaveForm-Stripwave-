@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A007F272-4AE6-45A1-AECC-BB3384B8E500"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A11A51FA-790D-467D-B8BE-5CB545AF0F3D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "exampleStripWave/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "276"
+            endingLineNumber = "276"
+            landmarkName = "updateSliderView2()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2164CF71-5B16-411B-990A-D9246AF0EBD9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "exampleStripWave/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "231"
+            endingLineNumber = "231"
+            landmarkName = "sliderPanned(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42625C96-6228-4DA2-8FBE-BB54C15E3DD6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "exampleStripWave/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "215"
+            endingLineNumber = "215"
+            landmarkName = "sliderPanned(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "42625C96-6228-4DA2-8FBE-BB54C15E3DD6 - 32a62ae39d98b9ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exampleStripWave.ViewController.sliderPanned(__C.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "exampleStripWave"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sagardas/Desktop/exampleStripWave/exampleStripWave/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "42625C96-6228-4DA2-8FBE-BB54C15E3DD6 - 32a62ae39d98b9ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exampleStripWave.ViewController.sliderPanned(__C.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "exampleStripWave"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sagardas/Desktop/exampleStripWave/exampleStripWave/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "215"
+                  endingLineNumber = "215"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41002AD4-46D7-4D67-B250-DCB8770273F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "exampleStripWave/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "204"
+            endingLineNumber = "204"
+            landmarkName = "sliderTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "41002AD4-46D7-4D67-B250-DCB8770273F7 - 2a1690f85a127111"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exampleStripWave.ViewController.sliderTapped(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "exampleStripWave"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sagardas/Desktop/exampleStripWave/exampleStripWave/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "41002AD4-46D7-4D67-B250-DCB8770273F7 - 2a1690f85a127111"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exampleStripWave.ViewController.sliderTapped(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "exampleStripWave"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sagardas/Desktop/exampleStripWave/exampleStripWave/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "204"
+                  endingLineNumber = "204"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD0E11F4-5D5E-4826-A51C-921441E33606"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "exampleStripWave/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "170"
+            endingLineNumber = "170"
+            landmarkName = "addSliderGestures()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CD0E11F4-5D5E-4826-A51C-921441E33606 - e5844850d43c855"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exampleStripWave.ViewController.addSliderGestures() -&gt; ()"
+                  moduleName = "exampleStripWave"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sagardas/Desktop/exampleStripWave/exampleStripWave/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "CD0E11F4-5D5E-4826-A51C-921441E33606 - e5844850d43c88e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exampleStripWave.ViewController.addSliderGestures() -&gt; ()"
+                  moduleName = "exampleStripWave"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sagardas/Desktop/exampleStripWave/exampleStripWave/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "170"
+                  endingLineNumber = "170"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3E9E4EF-D5C4-40B1-B992-80C20CDB4921"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "exampleStripWave/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "173"
+            endingLineNumber = "173"
+            landmarkName = "addSliderGestures()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F3E9E4EF-D5C4-40B1-B992-80C20CDB4921 - e5844850d43c855"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exampleStripWave.ViewController.addSliderGestures() -&gt; ()"
+                  moduleName = "exampleStripWave"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sagardas/Desktop/exampleStripWave/exampleStripWave/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "F3E9E4EF-D5C4-40B1-B992-80C20CDB4921 - e5844850d43c813"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exampleStripWave.ViewController.addSliderGestures() -&gt; ()"
+                  moduleName = "exampleStripWave"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sagardas/Desktop/exampleStripWave/exampleStripWave/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "173"
+                  endingLineNumber = "173"
+                  offsetFromSymbolStart = "340">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B4D05A1E-94AC-4AE4-B748-12179CE95B99"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "exampleStripWave/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "addSliderGestures()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B4D05A1E-94AC-4AE4-B748-12179CE95B99 - e5844850d43c855"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exampleStripWave.ViewController.addSliderGestures() -&gt; ()"
+                  moduleName = "exampleStripWave"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sagardas/Desktop/exampleStripWave/exampleStripWave/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "B4D05A1E-94AC-4AE4-B748-12179CE95B99 - e5844850d43c872"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exampleStripWave.ViewController.addSliderGestures() -&gt; ()"
+                  moduleName = "exampleStripWave"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sagardas/Desktop/exampleStripWave/exampleStripWave/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "174"
+                  endingLineNumber = "174"
+                  offsetFromSymbolStart = "400">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C3B4B8CE-6365-4988-861E-75B3A5A50F01"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "exampleStripWave/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
+            landmarkName = "addSliderGestures()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C3B4B8CE-6365-4988-861E-75B3A5A50F01 - e5844850d43c855"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exampleStripWave.ViewController.addSliderGestures() -&gt; ()"
+                  moduleName = "exampleStripWave"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sagardas/Desktop/exampleStripWave/exampleStripWave/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "C3B4B8CE-6365-4988-861E-75B3A5A50F01 - e5844850d43c8d1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "exampleStripWave.ViewController.addSliderGestures() -&gt; ()"
+                  moduleName = "exampleStripWave"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sagardas/Desktop/exampleStripWave/exampleStripWave/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "171"
+                  endingLineNumber = "171"
+                  offsetFromSymbolStart = "152">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
